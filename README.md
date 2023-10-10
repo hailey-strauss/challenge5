@@ -6,7 +6,7 @@ This is a weekly planner that incorporates jQuery and Bootstrap is a dynamic and
 
 ## Usage
 
-Deplayment: https://github.com/hailey-strauss/challenge5
+Deployment Link: https://hailey-strauss.github.io/challenge5/
 
 Here are a couple of screenshots of what the weekly planner looks like.
 ![screenshot](/assets/img/plan.png)
