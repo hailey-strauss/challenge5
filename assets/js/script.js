@@ -18,7 +18,7 @@ $(function () {
   // by comparing the id to the current hour.
   function updateHourlyBlocks() {
     var currentHour = dayjs().format("H");
-
+    
     $(".time-block").each(function () {
       var blockHour = parseInt($(this).attr("id").split("-")[1]);
 
