@@ -2,18 +2,13 @@
 
 ## Description
 
-Welcome to the Volleyball Quiz, a simple quiz game to test your knowledge of volleyball! This project is a quiz game that allows users to answer multiple-choice questions related to volleyball. It features a timer, highscore tracking, and an interactive user interface.
-
-## How to Play
-
-You have 120 seconds (2 minutes) to answer as many questions as you can.
-Choose the correct answer by clicking on one of the answer buttons.
-If you answer a question incorrectly, 10 seconds will be deducted from your remaining time.
-At the end of the quiz, you can enter your initials and submit your highscore.
+This is a weekly planner that incorporates jQuery and Bootstrap is a dynamic and user-friendly digital tool designed to help individuals effectively manage their time, tasks, and appointments on a weekly basis. This planner is a modern and feature-rich digital organizer designed to streamline your weekly scheduling and planning needs. This web-based application combines the flexibility of jQuery for interactivity and Bootstrap for a sleek and responsive user interface.
 
 ## Usage
 
-Here are a couple of screenshots of what the quiz looks like
+Deplayment: https://github.com/hailey-strauss/challenge5
+
+Here are a couple of screenshots of what the weekly planner looks like.
 ![screenshot](/assets/img/plan.png)
 ![screenshot](/assets/img/planner.png)
 
