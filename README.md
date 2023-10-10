@@ -14,10 +14,8 @@ At the end of the quiz, you can enter your initials and submit your highscore.
 ## Usage
 
 Here are a couple of screenshots of what the quiz looks like
-![screenshot](/assets/image/code-quiz.png)
-![screenshot](/assets/image/volleyballquestion.png)
-![screenshot](/assets/image/volleyballquestion.png)
-![screenshot](/assets/image/vballhover.png)
+![screenshot](/assets/img/plan.png)
+![screenshot](/assets/img/planner.png)
 
 ## License
 
